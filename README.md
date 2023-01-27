@@ -11,7 +11,7 @@
 <p align="center" margin-top="24px">I am also:<br>
 Good <b>communicator</b>  || VERY <b>creative</b>  || I enjoy <b>team work</b></p>
 
-<p align="center">I like:<br>
+<p align="center">I like:
 Play the piano || 3D world || Videogames</p>
 
 <p align="center"></p>
