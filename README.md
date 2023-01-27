@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2 align="center">✨ Hola, I'm María! ✨</h2>
 
-<!--
-**mariagarciaperez/mariagarciaperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I am a <b>Back-End Developer</b>.</p>
 
-Here are some ideas to get you started:
+<p align="center">I use:</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<b>Java | Android Studio | HTML | XML | SQL | Git </b></div>
+<p align="center"></p>
+<p align="center" margin-top="24px">I am also:<br>
+Good <b>communicator</b>  || VERY <b>creative</b>  || I enjoy working in <b>teamwork</b></p>
+
+<p align="center">I like:<br>
+Play the piano || 3D world || Videogames</p>
+
+<p align="center"></p>
+
+<hr>
+<h3 align="center">Find me on:<h3>
+<p align="center"><a href="mailto:maria6arciaperez@gmail.com"><img height="22px" src="./img/gmail.svg" alt="Gmail logo"/></a>
+<a href="https://www.linkedin.com/in/mar%C3%ADa-garc%C3%ADa-p%C3%A9rez-89296b172/"><img height="22px" src="./img/linkedin.svg" alt="LinkedIn logo"/></a>
+<a href="https://maria6arciaperez.wordpress.com/">/></a></p>
