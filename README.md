@@ -9,7 +9,7 @@
 <b>Java | Android Studio | XML | SQL | Git</b></div>
 <p align="center"></p>
 <p align="center" margin-top="24px">I am also:<br>
-Good <b>communicator</b>  || VERY <b>creative</b>  || I enjoy working in <b>teamwork</b></p>
+Good <b>communicator</b>  || VERY <b>creative</b>  || I enjoy <b>team work</b></p>
 
 <p align="center">I like:<br>
 Play the piano || 3D world || Videogames</p>
