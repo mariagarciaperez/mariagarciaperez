@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<b>Java | Apex | VISUAL STUDIO CODE | SALESFORCE | Git</b></div>
+<b>Java | Apex | Visual Studio Code | Git</b></div>
 <p align="center"></p>
 <p align="center" margin-top="24px">I am also:<br>
 Good <b>communicator</b>  || VERY <b>creative</b>  || I enjoy <b>team work</b></p>
